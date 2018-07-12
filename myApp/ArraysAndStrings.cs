@@ -17,6 +17,8 @@ namespace myApp
 
         public bool isPalPerm(string s)
         {
+            bool isPalPerm = false;
+
             int countOdd = 0;
             Dictionary<char, int> dict;
             dict = stringToDict(s);
@@ -32,9 +34,10 @@ namespace myApp
 
             if (countOdd == 0 || countOdd == 1)
             {
-                return true;
+                isPalPerm = true;
             }
-            else { return false; }
+            
+            return isPalPerm;
         }
 
         public void URLifyTest()

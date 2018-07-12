@@ -8,6 +8,7 @@ namespace myApp
     {
         static void Main(string[] args)
         {
+            // Arrays and Strings Tests
             ArraysAndStrings aas = new ArraysAndStrings();
             // 1.1
             aas.uniqueCharsTest();
@@ -18,6 +19,7 @@ namespace myApp
             // 1.4
             aas.isPalPermTest();
 
+            // Linked Lists Tests
             SinglyLinkedList list = new SinglyLinkedList();
             // 2.1
             list.removeDuplicatesTest();
