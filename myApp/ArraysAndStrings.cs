@@ -20,8 +20,7 @@ namespace myApp
             bool isPalPerm = false;
 
             int countOdd = 0;
-            Dictionary<char, int> dict;
-            dict = stringToDict(s);
+            Dictionary<char, int> dict = stringToDict(s);
 
             // Count the number of odd chars.
             foreach (KeyValuePair<char, int> item in dict)
