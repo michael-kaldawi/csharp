@@ -26,6 +26,26 @@ namespace myApp
             // 2.2
             list.kthFromTailTest();
             // 2.3
+
+            // Stacks & Queues
+            MyStack stack = new MyStack();
+            // 3.2 
+            stack.minTest();
+            // 3.3
+            SetOfStacks stacks = new SetOfStacks();
+            stacks.popAtTest();
+
+            // Trees & Graphs
+            Tree t = Tree.generateTestTree();
+            // BFT
+            t.bft();
+
+            t.inOrder(t.root);
+            t.preOrder(t.root);
+            t.postOrder(t.root);
+
+            //4.8
+            Tree.postOrderTraversalTest();
             
         }
     }
