@@ -20,3 +20,16 @@ c:/Git/csharp/csharp/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfoInputs.cach
 c:/Git/csharp/csharp/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
 c:/Git/csharp/csharp/myApp/obj/Debug/netcoreapp2.0/myApp.dll
 c:/Git/csharp/csharp/myApp/obj/Debug/netcoreapp2.0/myApp.pdb
+/home/mkaldawi/csharp/myApp/bin/Debug/netcoreapp2.0/myApp.deps.json
+/home/mkaldawi/csharp/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.json
+/home/mkaldawi/csharp/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.dev.json
+/home/mkaldawi/csharp/myApp/bin/Debug/netcoreapp2.0/myApp.dll
+/home/mkaldawi/csharp/myApp/bin/Debug/netcoreapp2.0/myApp.pdb
+/home/mkaldawi/csharp/myApp/obj/Debug/netcoreapp2.0/myApp.csproj.AssemblyReference.cache
+/home/mkaldawi/csharp/myApp/obj/Debug/netcoreapp2.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/mkaldawi/csharp/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfoInputs.cache
+/home/mkaldawi/csharp/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
+/home/mkaldawi/csharp/myApp/obj/Debug/netcoreapp2.0/myApp.csproj.CoreCompileInputs.cache
+/home/mkaldawi/csharp/myApp/obj/Debug/netcoreapp2.0/myApp.dll
+/home/mkaldawi/csharp/myApp/obj/Debug/netcoreapp2.0/myApp.pdb
+/home/mkaldawi/csharp/myApp/obj/Debug/netcoreapp2.0/myApp.genruntimeconfig.cache

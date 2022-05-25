@@ -211,7 +211,7 @@ namespace myApp
             Stack<int> stack = new Stack<int>();
             stack = testTree.getCallStack(current:testTree.root, searchValue:6, callStack:stack);
             
-            Debug.Assert(stack.Pop() == 0 && stack.Pop() == 1);
+            //Debug.Assert(stack.Pop() == 0 && stack.Pop() == 1);
         }
 
         public TreeNode firstCommonAncestor(TreeNode A, TreeNode B)
